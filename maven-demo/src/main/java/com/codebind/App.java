@@ -3,7 +3,7 @@ package com.codebind;
 public class App {
 	public String Sample()
 	{
-		return "Sample";
+		System.out.println ("Sample");
 	}
 
 }
